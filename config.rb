@@ -6,4 +6,5 @@ images_dir = 'img'
 javascripts_dir = 'js'
 relative_assets = true
 line_comments = false
-# output_style = :compressed
+# Always compress the output, no need to see it
+output_style = :compressed
